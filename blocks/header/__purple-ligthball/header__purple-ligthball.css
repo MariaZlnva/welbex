@@ -2,7 +2,7 @@
   width: 496px;
   height: 497px;
   position: absolute;
-  background-image: url(/images/purple-light.svg);
+  background-image: url('../../../images/purple-light.svg');
   top: -140px;
   left: 200px;
   rotate: -45deg;

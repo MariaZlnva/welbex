@@ -2,7 +2,7 @@
   width: 100px;
   height: 100px;
   position: absolute;
-  background-image: url(/images/red-ball.svg);
+  background-image: url('../../../images/red-ball.svg');
   top: 29px;
   left: 164px;
 }
