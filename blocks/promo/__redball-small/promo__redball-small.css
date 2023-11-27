@@ -1,0 +1,14 @@
+.promo__redball-small {
+  width: 48px;
+  height: 48px;
+  position: absolute;
+  background-image: url(/images/redball-small.svg);
+  bottom: 12px;
+  right: 408px;
+}
+
+@media screen and (max-width: 650px) {
+  .header__redball {
+    display: none;
+  }
+}

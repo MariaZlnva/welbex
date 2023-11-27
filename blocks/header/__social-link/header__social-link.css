@@ -1,0 +1,8 @@
+.header__social-link {
+  display: block;
+  width: 20px;
+  height: 20px;
+}
+ .header__social-link:hover {
+  opacity: 0.6;
+ }

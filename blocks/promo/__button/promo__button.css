@@ -1,0 +1,28 @@
+.promo__button {
+  margin-top: 60px;
+  background-color: #4077f3;
+  color: #e4e5ea;
+  border: none;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 19px;
+  letter-spacing: 0em;
+  width: 262px;
+  height: 61px;
+  cursor: pointer;
+  transition: opacity 0.2s ease-in-out;
+  
+}
+
+.promo__button:hover {
+  opacity: 0.8;
+ }
+
+@media screen and (max-width: 580px) {
+  .promo__button {
+    display: none;
+
+  }
+}
+
+

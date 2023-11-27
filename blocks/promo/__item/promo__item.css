@@ -1,0 +1,12 @@
+.promo__item {
+  font-family: "Montserrat";
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 16px;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  background: url("/images/line.svg") 0 7px no-repeat;
+  background-size: 10px 1px;
+  padding-left: 15px;
+}
+

@@ -1,0 +1,11 @@
+.footer__contact {
+  margin-left: auto;
+
+}
+
+@media screen and (max-width: 580px) {
+  .footer__contact {
+    margin-left: 0;;
+  }
+}
+

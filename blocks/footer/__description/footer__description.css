@@ -1,0 +1,15 @@
+.footer__description {
+  margin-right: 98px;
+}
+
+@media screen and (max-width: 1320px) {
+  .footer__description {
+    margin-right: 30px;
+  }
+}
+
+@media screen and (max-width: 810px) {
+  .footer__description {
+    margin-right: 5px;
+  }
+}

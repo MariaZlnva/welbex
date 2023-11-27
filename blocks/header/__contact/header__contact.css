@@ -1,0 +1,16 @@
+.header__contact {
+  display: flex;
+  position: relative;
+  z-index: 100;
+}
+
+@media screen and (max-width: 1320px) {
+  .header__contact {
+    flex-direction: column;
+  }
+}
+@media screen and (max-width: 810px) {
+  .header__contact {
+    display: none;
+  }
+}

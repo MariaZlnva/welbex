@@ -1,0 +1,9 @@
+.footer__title_position {
+  text-align: end;
+}
+
+@media screen and (max-width: 580px) {
+  .footer__title_position {
+    text-align: start;
+  }
+}

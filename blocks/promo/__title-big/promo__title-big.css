@@ -1,0 +1,7 @@
+.promo__title-big {
+  font-weight: 900;
+  color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+  background-image: linear-gradient(to right, #fcb045 27.14%, #ff3f78 121.36%);
+}

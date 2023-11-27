@@ -1,0 +1,16 @@
+.promo__description-title {
+  margin: 0;
+  padding-top: 15px;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 22px;
+  text-align: right;
+  margin-bottom: 40px;
+}
+
+@media screen and (max-width: 580px) {
+  .promo__description-title {
+    text-align: left;
+    margin-bottom: 20px;
+  }
+}

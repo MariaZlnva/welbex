@@ -1,0 +1,13 @@
+.promo__description-title-big_gradient {
+  color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+  background-image: linear-gradient(to right, #fcb045 1% 5%, #fd1d1d 60%);
+}
+
+.promo__description-title-big_gradient_orange {
+  color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+  background-image: linear-gradient(to right, #fcb045 70%, #fd1d1d 121%);
+}

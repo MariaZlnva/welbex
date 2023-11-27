@@ -1,0 +1,17 @@
+.header__wrapper {
+  display: flex;
+}
+
+@media screen and (max-width: 810px) {
+  .header__wrapper {
+    width: 100%;
+    justify-content: space-between;
+  }
+}
+
+@media screen and (max-width: 580px) {
+  .header__wrapper {
+    justify-content: center;
+  }
+}
+

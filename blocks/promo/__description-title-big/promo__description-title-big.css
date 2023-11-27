@@ -1,0 +1,12 @@
+.promo__description-title-big {
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1.13px;
+}
+
+@media screen and (max-width: 580px) {
+  .promo__description-title-big {
+    text-transform: lowercase;
+    letter-spacing: 0.13px;
+  }
+}

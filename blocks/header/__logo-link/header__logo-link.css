@@ -1,0 +1,7 @@
+.header__logo-link {
+  display: block;
+  width: 140px;
+  height: 24px;
+  text-decoration: none;
+  position: relative;
+}

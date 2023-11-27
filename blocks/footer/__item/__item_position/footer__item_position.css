@@ -1,0 +1,7 @@
+@media screen and (max-width: 580px) {
+  .footer__item_position {
+    grid-column-start: 2;
+    grid-row-start: 2;
+    grid-row-end: 2;
+  }
+}

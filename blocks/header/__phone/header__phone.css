@@ -1,0 +1,20 @@
+.header__phone {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19.36px;
+    text-decoration: none;
+    color: #E4E5EA;
+    padding-top: 15px;
+    margin-right: 47px;
+
+}
+
+.header__phone:hover {
+  opacity: 0.6;
+ }
+
+@media screen and (max-width: 1320px) {
+  .header__phone {
+    margin-right: 0px;
+  }
+}

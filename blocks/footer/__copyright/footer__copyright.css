@@ -1,0 +1,17 @@
+.footer__copyright{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+
+    font-family: 'Montserrat';
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14.63px;
+}
+
+
+@media screen and (max-width: 580px) {
+    .footer__copyright {
+      align-items: flex-start;
+    }
+  }

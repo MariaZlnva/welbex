@@ -1,0 +1,14 @@
+.header__redball {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  background-image: url(/images/red-ball.svg);
+  top: 29px;
+  left: 164px;
+}
+
+@media screen and (max-width: 650px) {
+  .header__redball {
+    display: none;
+  }
+}

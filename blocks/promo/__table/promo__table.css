@@ -1,0 +1,12 @@
+.promo__table {
+  display: flex;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 30px;
+}
+
+@media screen and (max-width: 810px) {
+  .promo__table {
+    display: none;
+  }
+}

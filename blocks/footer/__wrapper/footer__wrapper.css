@@ -1,0 +1,13 @@
+.footer__wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-end;
+}
+
+@media screen and (max-width: 580px) {
+  .footer__wrapper {
+    align-items: flex-start;
+    gap: 8px;
+  }
+}

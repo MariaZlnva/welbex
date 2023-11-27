@@ -1,0 +1,16 @@
+.header__purple-ligthball {
+  width: 496px;
+  height: 497px;
+  position: absolute;
+  background-image: url(/images/purple-light.svg);
+  top: -140px;
+  left: 200px;
+  rotate: -45deg;
+  z-index: 20;
+}
+
+@media screen and (max-width: 650px) {
+  .header__purple-ligthball {
+    display: none;
+  }
+}

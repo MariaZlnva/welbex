@@ -1,0 +1,19 @@
+.promo__list {
+  display: none;
+  margin: 0;
+  list-style: none;
+  grid-template-columns: auto auto;
+  gap: 14px 10px;
+}
+
+@media screen and (max-width: 810px) {
+  .promo__list {
+    display: grid;
+  }
+}
+
+@media screen and (max-width: 580px) {
+  .promo__list {
+    padding: 0;
+  }
+}

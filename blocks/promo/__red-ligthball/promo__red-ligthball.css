@@ -1,0 +1,15 @@
+.promo__red-ligthball {
+  width: 500px;
+  height: 500px;
+  position: absolute;
+  background-image: url(/images/red-light.svg);
+  rotate: 45deg;
+  top: 0;
+  left: -100px;
+}
+
+@media screen and (max-width: 650px) {
+  .promo__red-ligthball {
+    display: none;
+  }
+}
