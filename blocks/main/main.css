@@ -1,7 +1,7 @@
 
 @media screen and (max-width: 650px) {
     .main {
-    background-image: url('/images/bg.png');
+    background-image: url('../../images/bg.png');
     background-size: cover;
     }
   }
